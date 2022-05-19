@@ -3,6 +3,5 @@
 - I'm a software developer in Japan
 - Resume is [here](https://github.com/syohex/resume)
 
-[![](profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
-[![](profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syohex&hide=html)
+![syohex's github stats](https://github-readme-stats.vercel.app/api?username=syohex&show_icons=true&count_private=true&line_height=40)
